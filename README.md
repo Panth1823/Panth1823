@@ -1,12 +1,5 @@
 
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=imsp18&theme=juicyfresh&row=1&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
-</p>
-
-
-<p align="left"> <a href="https://twitter.com/imsp_18" target="blank"><img src="https://img.shields.io/twitter/follow/imsp_18?logo=twitter&style=for-the-badge" alt="imsp_18" /></a> </p>
-
 - 🔭 I’m currently pursuing **B.E** in **Computer Science and Design** from **Sardar Vallabhbhai Patel Institute of Technology, Anand**
 
 - 🌱 I’m currently learning **JavaScript**, and practicing **HTML & CSS**
