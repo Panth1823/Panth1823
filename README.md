@@ -32,4 +32,4 @@
   
                                                                                                                       
                                                                                                                     
-![visitors] href=(https://visitor-badge.laobi.icu/badge?page_id=Panth1823.Panth1823)                                                                                                                    
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Panth1823.Panth1823)                                                                                                                   
