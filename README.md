@@ -30,4 +30,4 @@
  <a align="right" href=" https://img.shields.io/github/watchers/{Panth1823}.svg"></a>
 <a align="right"href="https://img.shields.io/github/followers/Panth1823}.svg?style=social&label=Follow&maxAge=2592000"></a>
                                                                                                                       
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Panth1823.Panth1823)                                                                                                                     
+ <a align="right"![visitors](https://visitor-badge.laobi.icu/badge?page_id=Panth1823.Panth1823) ></a>                                                                                                                    
