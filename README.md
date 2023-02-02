@@ -29,7 +29,5 @@
 <p><a align="left" href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/dashboard"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/dashboard" />
  <a align="right" href=" https://img.shields.io/github/watchers/{Panth1823}.svg"></a>
 <a align="right"href="https://img.shields.io/github/followers/{Panth1823}.svg?style=social&label=Follow&maxAge=2592000"></a>
-  
-                                                                                                                      
-                                                                                                                    
+<br>                                                                                                                   
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Panth1823.Panth1823)                                                                                                                   
