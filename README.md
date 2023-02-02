@@ -1,7 +1,6 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**Panth1823/Panth1823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Panth1823/Panth1823** 
 
 Here are some ideas to get you started:
 
@@ -12,7 +11,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Panth1823&layout=compact)](https://github.com/Panth1823/github-readme-stats)
