@@ -13,17 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
 
-![Panth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Panth1823&show_icons=true&theme=tokyonight)
+<a href="https://github-readme-stats.vercel.app/api?username=Panth1823&show_icons=true&theme=tokyonight">
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Panth1823&layout=compact&theme=tokyonight)](https://github.com/Panth1823/github-readme-stats)
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Panth1823&layout=compact&theme=tokyonight"](https://github.com/Panth1823/github-readme-stats)
 <br>
-
-<a href="https://github.com/Panth1823/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Panth1823&repo=Memester&theme=tokyonight" />
-</a>
-<a href="https://github.com/Panth1823/CyberNerd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Panth1823&repo=CyberNerd&theme=tokyonight " />
-</a>
 
 
 
