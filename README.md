@@ -5,8 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/panth_1823" ><img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="panth_1823" height="40" width="40" /></a><br><br><br>
-<a href="https://www.instagram.com/_panth_18/" ><img align="left" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="panth_1823" height="40px" width="40px" /></a>
+<a href="https://twitter.com/panth_1823" ><img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="panth_1823" /></a><br><br><br>
+<a href="https://www.instagram.com/_panth_18/" ><img align="left" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="panth_1823" height="40px" width="40px" /></a><br><br><br>
 <a href="https://www.linkedin.com/in/panth-shah-a3aa4a20a/" ><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="panth_1823"  /></a>
 
 
