@@ -19,7 +19,7 @@
 <a href="https://www.figma.com/"><img align="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Panth_1823" /></a>
 </p>
 
-GitHub Stats:
+<b>GitHub Stats:<b>
 
 <div align="centre"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Panth_1823&theme=tokyonight&hide_border=true"/></div>
 <div align="centre"><img height="195px" width="450px" align="center" src="https://github-readme-stats.vercel.app/api?username=Panth1823&&theme=tokyonight&hide_border=true&locale=en" alt="Panth1823"/></div>
