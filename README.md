@@ -17,5 +17,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=panth1823&theme=tokyonight" alt="panth1823" /></p>
 </div>
 
-<h3 align="right">Support:</h3>
-<p><a align="right" href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/dashboard"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/dashboard" />
+<h3 align="left">Support:</h3>
+<p><a align="left" href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/dashboard"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/dashboard" />
