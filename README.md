@@ -1,31 +1,22 @@
+<h1 align="center">Hi 👋, I'm Panth Shah</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=panth1823&label=Profile%20views&color=0e75b6&style=flat" alt="panth1823" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=panth1823" alt="panth1823" /></a> </p>
 
-<h3 align="left">Socials:</h3>
+<p align="left"> <a href="https://twitter.com/panth_1823" target="blank"><img src="https://img.shields.io/twitter/follow/panth_1823?logo=twitter&style=for-the-badge" alt="panth_1823" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Panth_1823" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Panth_1823" /></a>
-<a href="https://www.linkedin.com/in/panth-shah-a3aa4a20a/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Panth_1823" /></a>
-<a href="https://discord.gg/imsp18#0088" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Panth_1823" /></a>
+<a href="https://twitter.com/panth_1823" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="panth_1823" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.w3schools.com/html/"><img align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Panth_1823" /></a>
-<a href="https://www.w3schools.com/css/"><img align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="Panth_1823" /></a>
-<a href="https://www.javascript.com/"><img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Panth_1823" /></a>
-<a href="https://www.python.org/"><img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Panth_1823" /></a>
-<a href="https://visualstudio.microsoft.com/"><img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Panth_1823" /></a>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/dashboard"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/dashboard" /></a></p><br><br>
 
-<a href="https://www.figma.com/"><img align="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Panth_1823" /></a>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=panth1823&show_icons=true&locale=en&layout=compact" alt="panth1823" /></p>
 
-<b>GitHub Stats:<b>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=panth1823&show_icons=true&locale=en" alt="panth1823" /></p>
 
-<div align="centre"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Panth_1823&theme=tokyonight&hide_border=true"/></div>
-<div align="centre"><img height="195px" width="450px" align="center" src="https://github-readme-stats.vercel.app/api?username=Panth1823&&theme=tokyonight&hide_border=true&locale=en" alt="Panth1823"/></div>
-
-
-
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=panth1823&" alt="panth1823" /></p>
