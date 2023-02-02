@@ -1,7 +1,4 @@
 
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
-, I'm Shivang Parmar</h1>
-<h3 align="center">A Passionate Frontend Developer from India</h3>
 
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=imsp18&theme=juicyfresh&row=1&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
