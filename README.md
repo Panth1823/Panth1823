@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/Panth1823/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Panth1823&repo=Memester&theme=tokyonight" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Panth1823/CyberNerd">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Panth1823&repo=CyberNerd&theme=tokyonight " />
 </a>
 
