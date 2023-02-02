@@ -14,8 +14,6 @@
 <a href="https://www.w3schools.com/css/"><img align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="Panth_1823" /></a>
 <a href="https://www.javascript.com/"><img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Panth_1823" /></a>
 <a href="https://www.python.org/"><img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Panth_1823" /></a>
-
-<a href="https://www.python.org/><img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Panth_1823" /></a>
 <a href="https://visualstudio.microsoft.com/"><img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Panth_1823" /></a>
 
 <a href="https://www.figma.com/"><img align="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Panth_1823" /></a>
