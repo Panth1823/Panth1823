@@ -35,11 +35,11 @@
 
 <div align="left">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imsp18&theme=midnight-purple&hide_border=true"/>
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsp18&theme=midnight-purple&layout=compact&count_private=true&hide_border=true" /><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Panth_1823&theme=tokyonight&hide_border=true"/>
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/username=Panth1823&theme=tokyonight&layout=compact&count_private=true&hide_border=true" /><br>
 
 </div>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=imsp18&&theme=midnight-purple&hide_border=true&locale=en" alt="imsp18"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Panth1823&&theme=tokyonight&hide_border=true&locale=en" alt="Panth1823"/>
 
 
 
