@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 
 
 
+[![Panth's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Panth1823)](https://github.com/Panth1823/github-readme-stats)
