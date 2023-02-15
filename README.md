@@ -29,7 +29,6 @@
   </div>
 
 
-    https://github.com/Panth1823/Panth1823/blob/output/github-contribution-grid-snake.gif
                                                                                                                     
 
   
