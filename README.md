@@ -31,7 +31,7 @@
 
     https://github.com/Panth1823/Panth1823/blob/output/github-contribution-grid-snake.gif
                                                                                                                     
-  ![snake gif](https://github.com/Panth1823/Panth1823/blob/output/github-contribution-grid-snake.gif)
+
   
   <h3 align="left">Support:</h3>
   <p><a align="left" href="https://www.buymeacoffee.com/panthshah2m"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/dashboard" />
