@@ -22,9 +22,9 @@
       <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" alt="photoshop" width="40" height="40"/> </a> 
   </a></p><br><br>
   <div align="center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=panth1823&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="panth1823" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=panth1823&show_icons=true&locale=en&theme=tokyonight" alt="panth1823" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=panth1823&theme=tokyonight" alt="panth1823" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Panth1823&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="panth1823" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Panth1823&show_icons=true&locale=en&theme=tokyonight" alt="panth1823" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Panth1823&theme=tokyonight" alt="panth1823" /></p>
   </div>
 
 
