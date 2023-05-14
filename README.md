@@ -44,5 +44,5 @@
   ---
 ## Total visitors 👀
 
-![Visitor Count](https://profile-counter.glitch.me/NirbhaySirsikar/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Panth1823/count.svg)
   
