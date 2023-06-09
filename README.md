@@ -19,7 +19,7 @@
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="html5" width="40" height="40"/> </a> 
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="javascript" width="40" height="40"/> </a> 
       <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-      <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" alt="photoshop" width="40" height="40"/> </a> 
+     
   </a></p><br><br><br><br><br><br><br><br>
   <div align="center">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Panth1823&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="panth1823" /></p>
