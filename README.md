@@ -31,8 +31,7 @@
                                                                                                                     
 
   
-## Coffee ∝ Coding ☕
-  <p><a align="right" href="https://www.buymeacoffee.com/panthshah2m"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/dashboard"/>
+
 
   
   
