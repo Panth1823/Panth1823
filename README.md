@@ -22,9 +22,9 @@
      
   </a></p><br><br><br><br><br><br><br><br>
   <div align="center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Panth1823&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="panth1823" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Panth1823&show_icons=true&locale=en&theme=tokyonight" alt="panth1823" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Panth1823&theme=tokyonight" alt="panth1823" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Panth1823&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="panth1823" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Panth1823&show_icons=true&locale=en&theme=chartreuse-dark" alt="panth1823" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Panth1823&theme=chartreuse-dark" alt="panth1823" /></p>
   </div>
 
   <a align="right" href="https://img.shields.io/github/followers/{Panth1823}.svg?style=social&label=Follow&maxAge=2592000"></a>
