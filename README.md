@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFFF&center=false&vCenter=false&width=450&lines=Passionate+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Continuous+Learner+%F0%9F%8C%9F)](https://git.io/typing-svg)
 <br>
-<img align="right" width="400px" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" width="400px" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
   
   </p>
   
