@@ -10,7 +10,7 @@
   
   
 
-  </a></p><br><br><br><br><br><br><br><br><br><br><br><br>
+  </a></p><br><br><br><br><br><br><br><br><br><br><br><br><br>
   <div align="center">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Panth1823&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="panth1823" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Panth1823&show_icons=true&locale=en&theme=chartreuse-dark" alt="panth1823" /></p>
