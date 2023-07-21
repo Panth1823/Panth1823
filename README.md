@@ -2,7 +2,6 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFFF&center=false&vCenter=false&width=450&lines=Passionate+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Continuous+Learner+%F0%9F%8C%9F)](https://git.io/typing-svg)
-<br>
   </a></p><br>
   <div align="center">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Panth1823&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="panth1823" /></p>
