@@ -13,10 +13,10 @@
   <a align="right" href="https://img.shields.io/github/followers/{Panth1823}.svg?style=social&label=Follow&maxAge=2592000"></a>
   <br/> 
   <br/>
-  ## GitHub Trophies 🏆
+  ### GitHub Trophies 🏆
 ![](https://github-profile-trophy.vercel.app/?username=panth1823&theme=radical&no-frame=false&no-bg=false&margin-w=4)
   ---
-## Total visitors 👀
+### Total visitors 👀
 
 ![Visitor Count](https://profile-counter.glitch.me/Panth1823/count.svg)
   
