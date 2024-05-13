@@ -20,13 +20,14 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/><br/>
 </div>
 
-  ### GitHub Trophies 🏆
+  <h2> GitHub Trophies 🏆</h2>
+
 ![](https://github-profile-trophy.vercel.app/?username=panth1823&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-  ---
-### Total visitors 👀
+
+<h2> Total visitors 👀</h2>
 
 ![Visitor Count](https://profile-counter.glitch.me/Panth1823/count.svg)
  <br/> 
