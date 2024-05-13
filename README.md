@@ -17,6 +17,14 @@
   <a align="right" href="https://img.shields.io/github/followers/{Panth1823}.svg?style=social&label=Follow&maxAge=2592000"></a>
   <br/> 
   <br/>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
   ### GitHub Trophies 🏆
 ![](https://github-profile-trophy.vercel.app/?username=panth1823&theme=radical&no-frame=false&no-bg=false&margin-w=4)
   ---
