@@ -1,7 +1,5 @@
 # Hello I'm Panth Shah 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFFF&center=false&vCenter=false&width=450&lines=Passionate+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Continuous+Learner+%F0%9F%8C%9F)](https://git.io/typing-svg)
-
 [![An image of @panth1823's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/panth1823)](https://holopin.io/@panth1823)
 
 
@@ -17,8 +15,8 @@
   <a align="right" href="https://img.shields.io/github/followers/{Panth1823}.svg?style=social&label=Follow&maxAge=2592000"></a>
   <br/> 
   <br/>
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+<div align="left">
+  <h2> My Contributions ✨</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
