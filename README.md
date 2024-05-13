@@ -26,10 +26,10 @@
 
 <div align="left">
   <h2> My Contributions ✨</h2>
-  <br>
+
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/>
+  <br/>
 </div>
 
   <h2> GitHub Trophies 🏆</h2>
@@ -42,4 +42,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/Panth1823/count.svg)
  <br/> 
  <br/> 
+ <div align="center">
+   
 [![wakatime](https://wakatime.com/badge/user/2b57776a-e32b-4d8e-b3eb-d2ea30d33f6b.svg)](https://wakatime.com/@2b57776a-e32b-4d8e-b3eb-d2ea30d33f6b)
+ </div>
