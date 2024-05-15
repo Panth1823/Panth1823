@@ -16,7 +16,7 @@
   <br/>
 
 <div>
-<h2>My Skills</h2>
+<h2>My Skills 🛠️</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,git,github,python,react,figma,nodejs,tailwindcss,bootstrap,firebase,replit,vite,devto,vercel&perline=8" />
