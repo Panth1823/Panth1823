@@ -7,8 +7,6 @@
 <br/>
   </a></p>
   <div align="center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Panth1823&show_icons=true&locale=en&layout=compact&theme=react" alt="panth1823" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Panth1823&show_icons=true&locale=en&theme=react" alt="panth1823" /></p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Panth1823&theme=react" alt="panth1823" /></p>
   </div>
   <a align="right" href="https://img.shields.io/github/followers/{Panth1823}.svg?style=social&label=Follow&maxAge=2592000"></a>
@@ -23,10 +21,11 @@
   </a>
 </p>
 </div>
-
+<h2>My Contriution Stats 📈</h2>
+<br/>
+<img src="https://myreadme.vercel.app/api/embed/Panth1823?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 <div align="left">
-  <h2> My Contributions ✨</h2>
-
+  <h2>Meet my hungry friend 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/>
