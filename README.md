@@ -14,18 +14,18 @@
   <br/>
 
 <div>
-<h2>My Skills 🛠️</h2>
+<h2> My Skills 🛠️</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,git,github,python,react,figma,nodejs,tailwindcss,bootstrap,firebase,replit,vite,devto,vercel&perline=8" />
   </a>
 </p>
 </div>
-<h2>My Contriution Stats 📈</h2>
+<h2> My Contribution Stats 📈</h2>
 <br/>
 <img src="https://myreadme.vercel.app/api/embed/Panth1823?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 <div align="left">
-  <h2>Meet my hungry friend 🐍</h2>
+  <h2> Meet my hungry friend 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/>
