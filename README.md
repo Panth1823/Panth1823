@@ -31,11 +31,6 @@
   <br/>
 </div>
 
-  <h2> GitHub Trophies 🏆</h2>
-
-![](https://github-profile-trophy.vercel.app/?username=panth1823&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
 <h2> Total visitors 👀</h2>
 
 ![Visitor Count](https://profile-counter.glitch.me/Panth1823/count.svg)
