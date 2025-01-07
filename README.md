@@ -36,9 +36,3 @@
 <h2> Total visitors 👀</h2>
 
 ![Visitor Count](https://profile-counter.glitch.me/Panth1823/count.svg)
- <br/> 
- <br/> 
- <div align="center">
-   
-[![wakatime](https://wakatime.com/badge/user/2b57776a-e32b-4d8e-b3eb-d2ea30d33f6b.svg)](https://wakatime.com/@2b57776a-e32b-4d8e-b3eb-d2ea30d33f6b)
- </div>
