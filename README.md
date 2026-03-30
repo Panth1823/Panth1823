@@ -32,7 +32,3 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   <br/>
 </div>
-
-<h2> Total visitors 👀</h2>
-
-![Visitor Count](https://profile-counter.glitch.me/Panth1823/count.svg)
