@@ -25,10 +25,3 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Panth1823&theme=react" alt="panth1823" /></p>
   </div>
   <a align="right" href="https://img.shields.io/github/followers/{Panth1823}.svg?style=social&label=Follow&maxAge=2592000"></a>
-  <br/> 
-  <br/>
-<div align="left">
-  <h2> Meet my hungry friend 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  <br/>
-</div>
